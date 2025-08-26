@@ -9,18 +9,22 @@ Email: jeonginseo at snu dot ac dot kr
 ## Work Experience
 
 > ### Research Associate, Weather and Climate Dynamics Lab., SEES, Seoul National University (Aug 2025 ~ Present)
+
 - Research on AI renewable energy forecasts
 
 > ### Team Leader, AI/Statistics Team, **BIOLINK Inc.** (Jan 2024 - Jul 2025)
+
 - AI/ML-based SaMD development using medical images (MRI, CT, CXR) and EHR
 - Project and team management
 
 > ### Post-Doc. Researcher, AI Computing Lab., **ETRI** (Nov 2021 - Oct 2023)
+
 - Collaborative AI model inference application with task offloading on Kubernetes
 - Design and develop edge computing service for offering additional resources for low-power devices
 
 
 > ### Managing Researcher, AI Lab., **S-1 Corporation** (Dec 2019 - Oct 2021)
+
 - Near-IR Face recognition applications on embedded linux, including training and optimizing AI models
 
 
