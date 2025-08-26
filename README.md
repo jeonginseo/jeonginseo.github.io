@@ -56,6 +56,7 @@ Email: jeonginseo at snu dot ac dot kr
 ## Publications
 
 > ### Journal Papers
+
 - **J. Seo, H. Park** (2019). Object Recognition in Very Low Resolution Images using Deep Collaborative Learning, IEEE Access
 
 - **C. Hyun, J. Seo, K. Lee, H. Park** (2019). Multi-Attribute Recognition of Facial Images Considering Exclusive and Correlated Relationship Among Attributes, Applied Sciences, 9(10), 2034
@@ -67,6 +68,7 @@ Email: jeonginseo at snu dot ac dot kr
 - **J. Seo, H. Park** (2013). Robust Recognition of Face with Partial Variations Using Local Features and Statistical Learning, Neurocomputing, Vol.129, pp. 41-48, 2014.04
 
 > ### Conference Presentations
+
 - **N. Kwon, J. Seo et al.** (2024). Development of an Artificial Intelligence Model for Automatic Segmentation of the Nasogastric Tube on Chest radiography, 2024 KOSMI Fall Conference, Yeosu, Korea, Nov. 2024 (in Korean)
 
 - **J. Seo, et al.** (2022). The method for enhancing inference performance of DNN models on mobile device through dynamic multi-point offloading, KSC 2022, Jeju, Korea, Dec. 2022 (in Korean)
