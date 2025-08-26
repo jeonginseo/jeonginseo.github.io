@@ -27,6 +27,7 @@ Email: jeonginseo at snu dot ac dot kr
 
 - Near-IR Face recognition applications on embedded linux, including training and optimizing AI models
 
+---
 
 ## Education
 
@@ -46,6 +47,8 @@ Email: jeonginseo at snu dot ac dot kr
 
 #### B.A. Department of Law (Dec 2022)
 
+---
+
 ## Awards
 
 > ### Best Paper Award, Avionics Systems Symposium Korea 2022
@@ -59,6 +62,8 @@ Email: jeonginseo at snu dot ac dot kr
 > ### 1st Prize, Best Paper in Artificial Intelligence, 2014 Korea Computer Congress
 
 - Title: Detection of Faces with Partial Occlusions using Statistical Face Model
+
+---
 
 ## Publications
 
@@ -130,6 +135,8 @@ Email: jeonginseo at snu dot ac dot kr
 
 - **J. Seo, H. Park** (2011). A Robust Face Recognition through Statistical Learning of Local Features, International Conference on Neural Information Processing, Shanghai, China, Nov. 2011
 
+---
+
 ## Patents
 
 - **J. Seo et al.** (2022). AI Model Inference Method and Device using Additional Modules (추가 모듈을 이용한 인공지능 모델 추론 방법 및 장치), Applied (10-2022-0108185)
@@ -141,6 +148,8 @@ Email: jeonginseo at snu dot ac dot kr
 - **H. Park, J. Seo** (2014). Face Recognition Device and Face Recognition Method (얼굴 인식 장치 및 얼굴 인식 방법), Registered (10-1402078)
 
 - **H. Park, J. Seo** (2013). Robust Face Recognition Method through Statistical Learning of Local Features (지역적 특징의 통계적 학습을 통한 강건한 얼굴인식방법), Registered (10-1326691)
+
+---
 
 ## Activities
 
