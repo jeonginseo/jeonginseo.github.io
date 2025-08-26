@@ -8,7 +8,7 @@ Email: jeonginseo at snu dot ac dot kr
 
 ## Work Experience
 
-> ### Research Associate, Weather and Climate Dynamics Lab., SEES, Seoul National University (Aug 2025 ~ Present)
+> ### Research Associate, Weather and Climate Dynamics Lab., SEES, Seoul National University (Aug 2025 - Present)
 
 - Research on AI renewable energy forecasts
 
@@ -49,12 +49,15 @@ Email: jeonginseo at snu dot ac dot kr
 ## Awards
 
 > ### Best Paper Award, Avionics Systems Symposium Korea 2022
+
 - Title: lightweight-Encoder for Real-time Offloading in a Low Specification UAV
 
 > ### Best Paper in Artificial Intelligence, 2017 Korea Computer Congress
+
 - Title: Object Recognition in Low Resolution Images using Convolutional Neural Network and Image Enhancement Network
 
 > ### 1st Prize, Best Paper in Artificial Intelligence, 2014 Korea Computer Congress
+
 - Title: Detection of Faces with Partial Occlusions using Statistical Face Model
 
 ## Publications
@@ -142,13 +145,16 @@ Email: jeonginseo at snu dot ac dot kr
 ## Activities
 
 > ### Co-Translator 
+
  - Go 언어 시작하기 (From スタ-ティングGO言語(松尾愛賀)), 홍릉과학출판사, 2018
 
 > ### Conference Paper Reviewer
+
 - Korea Computer Congress 2017
 - Korea Computer Congress 2016
 
 > ### Membership
+
 - Hanulso Programming Club, Kyungpook National University (2006 - Present)
 
 ---
