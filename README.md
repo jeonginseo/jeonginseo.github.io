@@ -8,25 +8,25 @@ Email: jeonginseo at snu dot ac dot kr
 
 ## Work Experience
 
-### Research Associate, Weather and Climate Dynamics Lab., SEES, Seoul National University (Aug 2025 ~ Present)
+> ### Research Associate, Weather and Climate Dynamics Lab., SEES, Seoul National University (Aug 2025 ~ Present)
 - Research on AI renewable energy forecasts
 
-### Team Leader, AI/Statistics Team, **BIOLINK Inc.** (Jan 2024 - Jul 2025)
+> ### Team Leader, AI/Statistics Team, **BIOLINK Inc.** (Jan 2024 - Jul 2025)
 - AI/ML-based SaMD development using medical images (MRI, CT, CXR) and EHR
 - Project and team management
 
-### Post-Doc. Researcher, AI Computing Lab., **ETRI** (Nov 2021 - Oct 2023)
+> ### Post-Doc. Researcher, AI Computing Lab., **ETRI** (Nov 2021 - Oct 2023)
 - Collaborative AI model inference application with task offloading on Kubernetes
 - Design and develop edge computing service for offering additional resources for low-power devices
 
 
-### Managing Researcher, AI Lab., **S-1 Corporation** (Dec 2019 - Oct 2021)
+> ### Managing Researcher, AI Lab., **S-1 Corporation** (Dec 2019 - Oct 2021)
 - Near-IR Face recognition applications on embedded linux, including training and optimizing AI models
 
 
 ## Education
 
-### Kyungpook National University, Daegu, Korea
+> ### Kyungpook National University, Daegu, Korea
 
 #### Ph.D. Computer Science and Engineering (Jun 2019)
 - Thesis: Very Low Resolution Object Recognition through Deep Collaborative Learning of Image Enhancement and Classification
@@ -36,7 +36,7 @@ Email: jeonginseo at snu dot ac dot kr
 
 #### B.A. Electric Engineering and Computer Science (Jun 2010)
 
-### Korea National Open University, Korea
+> ### Korea National Open University, Korea
 
 #### B.A, Department of Agricultural Science (Jun 2025)
 
@@ -44,18 +44,18 @@ Email: jeonginseo at snu dot ac dot kr
 
 ## Awards
 
-### Best Paper Award, Avionics Systems Symposium Korea 2022
+> ### Best Paper Award, Avionics Systems Symposium Korea 2022
 - Title: lightweight-Encoder for Real-time Offloading in a Low Specification UAV
 
-### Best Paper in Artificial Intelligence, 2017 Korea Computer Congress
+> ### Best Paper in Artificial Intelligence, 2017 Korea Computer Congress
 - Title: Object Recognition in Low Resolution Images using Convolutional Neural Network and Image Enhancement Network
 
-### 1st Prize, Best Paper in Artificial Intelligence, 2014 Korea Computer Congress
+> ### 1st Prize, Best Paper in Artificial Intelligence, 2014 Korea Computer Congress
 - Title: Detection of Faces with Partial Occlusions using Statistical Face Model
 
 ## Publications
 
-### Journal Papers
+> ### Journal Papers
 - **J. Seo, H. Park** (2019). Object Recognition in Very Low Resolution Images using Deep Collaborative Learning, IEEE Access
 
 - **C. Hyun, J. Seo, K. Lee, H. Park** (2019). Multi-Attribute Recognition of Facial Images Considering Exclusive and Correlated Relationship Among Attributes, Applied Sciences, 9(10), 2034
@@ -66,7 +66,7 @@ Email: jeonginseo at snu dot ac dot kr
 
 - **J. Seo, H. Park** (2013). Robust Recognition of Face with Partial Variations Using Local Features and Statistical Learning, Neurocomputing, Vol.129, pp. 41-48, 2014.04
 
-### Conference Presentations
+> ### Conference Presentations
 - **N. Kwon, J. Seo et al.** (2024). Development of an Artificial Intelligence Model for Automatic Segmentation of the Nasogastric Tube on Chest radiography, 2024 KOSMI Fall Conference, Yeosu, Korea, Nov. 2024 (in Korean)
 
 - **J. Seo, et al.** (2022). The method for enhancing inference performance of DNN models on mobile device through dynamic multi-point offloading, KSC 2022, Jeju, Korea, Dec. 2022 (in Korean)
@@ -135,14 +135,14 @@ Email: jeonginseo at snu dot ac dot kr
 
 ## Activities
 
-### Co-Translator 
+> ### Co-Translator 
  - Go 언어 시작하기 (From スタ-ティングGO言語(松尾愛賀)), 홍릉과학출판사, 2018
 
-### Conference Paper Reviewer
+> ### Conference Paper Reviewer
 - Korea Computer Congress 2017
 - Korea Computer Congress 2016
 
-### Membership
+> ### Membership
 - Hanulso Programming Club, Kyungpook National University (2006 - Present)
 
 ---
